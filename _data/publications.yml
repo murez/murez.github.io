@@ -9,8 +9,7 @@ main:
     image: ./assets/img/teaser_example_2.png
 
   - title: "NEPHELE: A Neural Platform for Highly Realistic Cloud Radiance Rendering"
-    authors: 
-Haimin Luo, <strong>Siyuan Zhang</strong>, Fuqiang Zhao, Haotian Jing, Penghao Wang, Zhenxiao Yu, Dongxue Yan, Junran Ding, Boyuan Zhang, Qiang Hu, Shu Yin, Lan Xu, JIngyi Yu
+    authors: Haimin Luo, <strong>Siyuan Zhang</strong>, Fuqiang Zhao, Haotian Jing, Penghao Wang, Zhenxiao Yu, Dongxue Yan, Junran Ding, Boyuan Zhang, Qiang Hu, Shu Yin, Lan Xu, JIngyi Yu
     # conference_short: SIGGRAPH
     # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://arxiv.org/pdf/2303.04086.pdf

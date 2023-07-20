@@ -1,22 +1,21 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: Critique of “A parallel framework for constraint-based Bayesian network learning via Markov blanket discovery” by SCC team from ShanghaiTech University
+    authors: Guancheng Li, Songhui Cao, Chuyi Zhao, <strong>Siyuan Zhang</strong>, Yuchen Ji, Haotian Jing, Zecheng Li, Jiajun Cheng, Yiwei Yang, Shu Yin* (*Corresponding authors)
+    conference_short: TPDS
+    conference: IEEE Transactions on Parallel and Distributed Systems
+    pdf: https://ieeexplore.ieee.org/document/9882379
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:2gIMI442YAcJ:scholar.google.com/&output=citation&scisdr=ChURyl2xEMyTgBwKMlg:ABFrs3wAAAAAZLkMKli5G0C2x7U2TG3xxqhfVvE&scisig=ABFrs3wAAAAAZLkMKuLMUDPp-NOcGovTDuwdxks&scisf=4&ct=citation&cd=-1&hl=zh-TW
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: NEPHELE: A Neural Platform for Highly Realistic Cloud Radiance Rendering
+    authors: 
+Haimin Luo, <strong>Siyuan Zhang</strong>, Fuqiang Zhao, Haotian Jing, Penghao Wang, Zhenxiao Yu, Dongxue Yan, Junran Ding, Boyuan Zhang, Qiang Hu, Shu Yin, Lan Xu, JIngyi Yu
+    # conference_short: SIGGRAPH
+    # conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://arxiv.org/pdf/2303.04086.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:VPBZkLMVbfMJ:scholar.google.com/&output=citation&scisdr=ChURyl2xENfqmyYLjQA:ABFrs3wAAAAAZLkNlQCcDfClyXMA0tH_KFz5_X4&scisig=ABFrs3wAAAAAZLkNlacmL-FFA-6Hy7gFDLa1zP4&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    notes: proceeding
+    image: ./assets/img/NEPHELE.png

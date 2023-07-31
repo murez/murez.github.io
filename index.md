@@ -15,10 +15,14 @@ I am a graduate student from Shanghaitech University. I am looking for PhD posit
 
 ### Research Assistant @ **L.I.O.N.** & **NeuDim**
 
-Co-author [*NEPHELE*: A Neural Platform for Highly Realistic Cloud Radiance Rendering](https://arxiv.org/pdf/2303.04086.pdf), as the second author.
+- Co-author [*NEPHELE*: A Neural Platform for Highly Realistic Cloud Radiance Rendering](https://arxiv.org/pdf/2303.04086.pdf), as the second author.
 
-- Reduce hash grid size by 8.7 times by introducing *Perfect Spatial Hashing* into NGP.
-- Develop a multi-GPU, multi-node extrem low latency NGP rendering framework, achieving 50 FPS @ 1080 resolution for 12 NGP on 4 GPUs in one node and 37 FPS @ 1080 resolution for 12 NGP on 4 GPUs in 2 nodes using **CUDA awared MPI**.
+  - Reduce hash grid size by 8.7 times by introducing *Perfect Spatial Hashing* into NGP.
+  - Develop a multi-GPU, multi-node extrem low latency NGP rendering framework, achieving 50 FPS @ 1080 resolution for 12 NGP on 4 GPUs in one node and 37 FPS @ 1080 resolution for 12 NGP on 4 GPUs in 2 nodes using **CUDA awared MPI**.
+
+ - Research in workloads of DNN Training Jobs in HPC
+
+  
 
 
 ### Student Cluster Competition (SCC) @ Geekpie_HPC Shanghaitech University
@@ -56,7 +60,7 @@ C/C++, CUDA, Python
 
 #### Frameworks, Libs
 
-OpenMP, MPI, Pytorch, OpenGL, OpenCV
+OpenMP, MPI, Pytorch, OpenGL, OpenCV, NCCL
 
 
 #### Tools

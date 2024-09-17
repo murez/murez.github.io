@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a graduate student from Shanghaitech University. I am looking for PhD position in 24 Spring and 24 Fall in the field of HPC and MLsys.
+I am a PhD student @ the Ohio State University, proudly advised by Prof DK Panda and Prof Hari Subramoni @ [NOWLAB](https://nowlab.cse.ohio-state.edu/).
 
 ## Research Interests
 
@@ -12,6 +12,11 @@ I am a graduate student from Shanghaitech University. I am looking for PhD posit
 - **MLSys**
 
 ## Experience
+
+### Research Assistant @ [NOWLAB](https://nowlab.cse.ohio-state.edu/)
+
+TBD
+
 
 ### Research Assistant @ **L.I.O.N.** & **NeuDim**
 
